@@ -31,3 +31,12 @@ The study used a private dataset obtained from a bank's database. It contained 4
 1. Customer transaction activity and engagement can be useful predictors of future customer disengagement.
 2. Data cleaning, missing-value treatment and class-imbalance handling should be considered before modelling.
 3. Interpretable models such as decision trees can help identify characteristics associated with customer dormancy and churn.
+## Part C – Performance
+
+Part C presents the performance results of the two machine-learning models applied to the Credit Card Customers (BankChurners) public dataset.
+
+* [Part C README](Part_C_Performance/README.md)
+* [Model 1 Performance – Logistic Regression](Part_C_Performance/Model1Performance.MD)
+* [Model 2 Performance – XGBoost](Part_C_Performance/Model2Performance.MD)
+* [Model Comparison](Part_C_Performance/Comparison.MD)
+* [Part C Performance Notebook](Part_C_Performance/part_c_performance.ipynb)
